@@ -1,0 +1,4 @@
+--- AUTOMATED DATA CLEANING AUDIT INITIALIZED ---
+[2026-05-21 09:27:42] System scanned source file: messy_contacts.csv
+[2026-05-21 09:27:42] ROW REJECTED (Line 3): Invalid email schema format for target 'John Doe' [ invalid-email-at-domain.com]
+[2026-05-21 09:27:42] SUCCESS: Pipeline completed. 2 records saved, 1 records isolated.
